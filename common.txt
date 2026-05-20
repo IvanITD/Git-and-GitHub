@@ -1,3 +1,9 @@
+
 name = Ivan
 size = 250
 email = ivan123@did.com
+
+o	name = Georgi
+o	size = 185
+o	email = gosh0u-18@abv.bg
+
