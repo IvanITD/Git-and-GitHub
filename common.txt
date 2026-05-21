@@ -1,7 +1,7 @@
 
-name = Ivan
-size = 250
-email = ivan123@did.com
+name = Ivan Ivanov
+size = 1500
+email = ivan123@delusional.com
 
 o	name = Georgi
 o	size = 185
