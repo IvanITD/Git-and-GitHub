@@ -1,7 +1,11 @@
-
 name = Ivan Ivanov
 size = 1500
 email = ivan123@delusional.com
+
+name = Mihaela
+size = 999
+email = mishi@did.com
+
 
 o	name = Georgi
 o	size = 185
