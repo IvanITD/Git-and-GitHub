@@ -8,11 +8,13 @@ Welcome to the **Git-and-GitHub** repository! This is a collaborative project cr
 |------|------|
 | Ivan Ivanov | [`ivanIvanov.txt`](./ivanIvanov.txt) |
 | Georgi Dilovski | [`georgidilovski.txt`](./georgidilovski.txt) |
+| Mihaela | [`mihaela.txt`](./mihaela.txt) |
 
 ## 📁 What's Inside
 
 - **`ivanIvanov.txt`** — personal introduction file created by Ivan
 - **`georgidilovski.txt`** — personal introduction file created by Georgi
+- **`mihaela.txt`** — personal introduction file created by Mihaela
 - **`common.txt`** — shared configuration file used to simulate merge conflicts and practice resolving them as a team
 - **`LICENSE`** — MIT License
 - **`README.md`** — this file
